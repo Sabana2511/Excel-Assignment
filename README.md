@@ -1,4 +1,4 @@
-# 📊 Excel Assignment – Data Exploration
+# 📊 Data Exploration By Using Excel
 
 ## 📌 Project Overview
 
